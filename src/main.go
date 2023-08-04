@@ -17,6 +17,7 @@ func main() {
 	runMethod(sortmethod.BubbleSort, sampleArr)
 	runMethod(sortmethod.InsertionSort, sampleArr)
 	runMethod(sortmethod.MergeSort, sampleArr)
+	runMethod(sortmethod.QuickSort, sampleArr)
 }
 
 /*
